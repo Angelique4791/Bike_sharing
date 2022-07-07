@@ -2,4 +2,4 @@
 Tableau
 
 
-Link to Bike_sharin on Taableau Public [Bike_sharing](https://public.tableau.com/app/profile/angelique.walker#!/?newProfile=&activeTab=0)
+Link to Tableau Public [Bike_sharing](https://public.tableau.com/app/profile/angelique.walker#!/?newProfile=&activeTab=0)
